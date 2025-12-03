@@ -11,3 +11,7 @@ Repositório para trabalhos do curso de Fundamentos da Engenharia de Software
 
 **Trabalho 2 - Quais os desejos de suas partes interessadas?**
 🔗 [Acessar documento](https://docs.google.com/document/d/1L-KzmiPBVU8M4XtEpPE6ozaJFYMDo-b30pwKyG1Mcrk/edit?usp=sharing)
+
+
+**Trabalho 3: Histórias do Usuário**
+🔗 [Acessar planilha](https://docs.google.com/spreadsheets/d/1gO6sR7ub63CpgJRAwryrqUvbuM-UiWWOFuMHZFroREU/edit?usp=sharing)
