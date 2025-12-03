@@ -15,3 +15,7 @@ Repositório para trabalhos do curso de Fundamentos da Engenharia de Software
 
 **Trabalho 3: Histórias do Usuário**
 🔗 [Acessar planilha](https://docs.google.com/spreadsheets/d/1gO6sR7ub63CpgJRAwryrqUvbuM-UiWWOFuMHZFroREU/edit?usp=sharing)
+
+
+**Trabalho 4: Casos de Uso**
+🔗 [Acessar planilha](https://docs.google.com/spreadsheets/d/1L4FADMgXPXkv7hDav_0IO05DDdIMUKW1kxZcUjXoX7s/edit?usp=sharing)
